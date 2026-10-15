@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "crdroidandroid/android_device_xiaomi_sm8350-common",
+    "target_path": "device/xiaomi/sm8350-common",
+    "branch": "17.0-haydn"
+  },
+  {
+    "remote": "github",
+    "repository": "crdroidandroid/android_kernel_xiaomi_sm8350",
+    "target_path": "kernel/xiaomi/sm8350",
+    "branch": "17.0-haydn"
+  }
+]
